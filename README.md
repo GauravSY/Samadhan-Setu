@@ -64,7 +64,7 @@ SamadhanSetu/
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/Codec-boy/Samadhan-Setu.git
+git clone https://github.com/GauravSY/Samadhan-Setu.git
 cd Samadhan-Setu
 ```
 
@@ -141,4 +141,4 @@ Access the application at `http://127.0.0.1:8000/`.
 - **Data Protection:** Public tracking hides submitter identity details.
 - **Session Security:** `HTTPOnly` and `SameSite=Lax` cookie configurations enabled.
 
-> **Production Warning:** Before deploying to production, set `DJANGO_DEBUG=False`, configure `DJANGO_SECURE_COOKIES=True` with HTTPS, and provide a strong `DJANGO_SECRET_KEY`.
+> **Production Warning:** Before deploying to production, set `DJANGO_DEBUG=False`, configure `DJANGO_SECURE_COOKIES=True` with HTTPS, and provide a strong `DJANGO_SECRET_KEY`.
